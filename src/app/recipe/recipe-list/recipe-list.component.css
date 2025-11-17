@@ -1,12 +1,5 @@
-img.recipe-img {
-  max-width: 250px;
-}
 
-tr:hover {
-  background-color: pink;
-  cursor: pointer;
-}
-
-thead {
-  background-color: palevioletred;
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.2s ease-in-out;
 }
